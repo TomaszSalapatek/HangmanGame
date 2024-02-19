@@ -1,0 +1,443 @@
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieStatystyki.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieStatystyki.baml
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieStatystyki.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieStatystyki.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_bazy\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\odo_2\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala_duzo\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\projekt\wisielec_dziala_dzwiek\wisielec_dziala_bazy2\Wisielec_projekt_dziala\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.deps.json
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.runtimeconfig.json
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec.exe
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\Karolina\Desktop\WisielecNajnowszy\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\WisielecLatestVersion\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.exe
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.deps.json
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.runtimeconfig.json
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\bin\Debug\net6.0-windows\Wisielec.pdb
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.baml
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\WisielecGra.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\ZakonczenieGryOkno.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.cache
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI_MarkupCompile.lref
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\HistoriaGraczyOkno.baml
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\WisielecGra.baml
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\WisielecOkno.baml
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.g.resources
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.csproj.CopyComplete
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\refint\Wisielec GUI.dll
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.pdb
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\Wisielec GUI.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\projekt\Projekt Wisielec\Program wisielec\Wisielec\obj\Debug\net6.0-windows\ref\Wisielec GUI.dll

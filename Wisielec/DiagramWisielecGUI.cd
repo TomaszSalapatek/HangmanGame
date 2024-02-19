@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Wisielec.HistoriaGraczyOkno">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAABAAAEAIAAABCAABAAAAAAAAAA=</HashCode>
+      <FileName>HistoriaGraczyOkno.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.MainWindow">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="musicPlayer" Type="System.Media.SoundPlayer" ManuallyRouted="true">
+      <Path>
+        <Point X="1.352" Y="6.694" />
+        <Point X="1.352" Y="7.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="MusicPlayer" Type="System.Media.SoundPlayer" ManuallyRouted="true">
+      <Path>
+        <Point X="2.5" Y="6.423" />
+        <Point X="4.354" Y="6.423" />
+        <Point X="4.354" Y="7.304" />
+        <Point X="1.766" Y="7.304" />
+        <Point X="1.766" Y="7.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.931" Y="0.543" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAEEAAAAAAAAAEAAAIAAAAGQAAAAAAAAAAAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="musicPlayer" />
+      <Property Name="MusicPlayer" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.WisielecGra">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="graczOkno" Type="Wisielec.Gracz">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.983" Y="0.424" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="graOkno" Type="Wisielec.Gra">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.683" Y="4.707" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAQCAQAAAAAQAAAAEIkAAACAAkAAAAICAAAg=</HashCode>
+      <FileName>WisielecGra.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="graczOkno" />
+      <Field Name="graOkno" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.WisielecOkno">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="graczOkno" Type="Wisielec.Gracz">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.834" Y="0.192" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgQBAAAAAQAAAAAAAAAAAYAAQgCAAgAAAAIAAAAA=</HashCode>
+      <FileName>WisielecOkno.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="graczOkno" />
+      <Field Name="graOkno" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.ZakonczenieGryOkno">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="graczOkno" Type="Wisielec.Gracz">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.142" Y="2.406" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAAQAAAAAAAAAAAIAAAACgAgAAAJICAAAA=</HashCode>
+      <FileName>ZakonczenieGryOkno.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="graczOkno" />
+      <Field Name="graOkno" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Media.SoundPlayer" Collapsed="true">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Wisielec.Gracz" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Wisielec.Gra" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

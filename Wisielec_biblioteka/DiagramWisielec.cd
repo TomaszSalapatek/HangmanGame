@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Wisielec.Gracz">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAQMgCAACAQAAAAEAAEAAAAgIAAAIAA=</HashCode>
+      <FileName>Gracz.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.Gra">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Wisielec.Gra.ZgadnieteLiteryUpdatedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gra.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <InheritanceLine Type="Wisielec.PodstawyGry" ManuallyRouted="true">
+      <Path>
+        <Point X="3.75" Y="4" />
+        <Point X="3.75" Y="3.165" />
+        <Point X="7.75" Y="3.165" />
+        <Point X="7.75" Y="3.348" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAABAAAAARAAAACAAAAAAAAQAAAAABAAAAAyEAEAAQ=</HashCode>
+      <FileName>Gra.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gracz" />
+      <Property Name="Gracz" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wisielec.PodstawyGry">
+    <Position X="3" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAQAAAEEAAABAAQAAAAEAIAAAAHAAAAgRQAAkAQA=</HashCode>
+      <FileName>PodstawyGry.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="musicPlayer" />
+      <Field Name="wybranyPoziom" />
+      <Field Name="wybranaKategoria" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Wisielec.BladNazwyPlikuException">
+    <Position X="8" Y="4.25" Width="2" />
+    <InheritanceLine Type="System.Exception" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="3.562" />
+        <Point X="10.5" Y="4.875" />
+        <Point X="10" Y="4.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BladNazwyPlikuException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wisielec.BlednyPoziomException">
+    <Position X="8" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlednyPoziomException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wisielec.HistoriaGraczyDbContext">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>HistoriaGraczyDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Data.Entity.DbContext" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Media.SoundPlayer" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Wisielec.IFunkcjeGry">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAACAAAAAAAAAAAAAABAAAAAiAAAAAA=</HashCode>
+      <FileName>IFunkcjeGry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Wisielec.EnumPoziom" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>PodstawyGry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Wisielec.EnumKategoria" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAACAAAAAAIAAgACAAAAAAAA=</HashCode>
+      <FileName>PodstawyGry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

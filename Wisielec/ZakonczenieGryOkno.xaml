@@ -1,0 +1,14 @@
+﻿<Window x:Class="Wisielec.ZakonczenieGryOkno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Okno zakończenia gry" Height="250" Width="400" Background="Gray">
+    <Grid>
+        <TextBlock Text="{Binding Message}" Margin="10" TextAlignment="Center" TextWrapping="Wrap" FontWeight="Bold" FontSize="13"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" >
+            <Button Content="Kontynuuj grę" Click="BtnZakonczenieKontunuuj_Click" Width="90" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="11" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="1.5" Height="34"/>
+            <Button Content="Ustawienia" Click="BtnZakonczenieUstawienia_Click" Width="90" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="11" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="1.5"/>
+            <Button Content="Menu" IsCancel="True" Click="BtnZakonczenieMenu_Click" Width="90" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="11" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="1.5"/>
+            <Button Content="Statystyki" IsCancel="True" Click="BtnZakonczenieStatystyki_Click" Width="90" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="11" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="1.5"/>
+        </StackPanel>
+    </Grid>
+</Window>

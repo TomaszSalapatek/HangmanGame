@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="HistoriaGraczyOkno.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WisielecGra.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WisielecOkno.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ZakonczenieGryOkno.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="HistoriaGraczyOkno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WisielecGra.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WisielecOkno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ZakonczenieGryOkno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="Wisielec.WisielecGra"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wisielec"
+        mc:Ignorable="d"
+        Title="Wisielec rozgrywka" Height="450" Width="800" Background="LightGray">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="67"/>
+            <RowDefinition Height="Auto" MinHeight="0"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label x:Name="LabelZgadnieteLitery" Content="" HorizontalAlignment="Left" VerticalContentAlignment="Top" Margin="30,291,0,23" Grid.Row="2" Width="750" FontFamily="Cascadia Mono SemiBold" FontSize="14" FontWeight="Bold" Foreground="Black"/>
+
+        <Button x:Name="BSettings" Content="Menu" HorizontalAlignment="Left" Height="35" Margin="30,22,0,0" VerticalAlignment="Top" Width="145" Click="BSettings_Click" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="15" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="2"/>
+
+        <Image x:Name="obrazWisielca" HorizontalAlignment="Left" Height="315" Margin="517,57,0,0" VerticalAlignment="Top" Width="264" Grid.RowSpan="3"/>
+
+        <Label x:Name="LabelNazwaGracza" Content="" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="190,22,0,0" VerticalAlignment="Top" Width="190" Background="#FF5B5B5B" Foreground="White" FontFamily="Cascadia Mono SemiBold" FontSize="15"/>
+        <Label x:Name="LabelKategoria" Content="" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="390,22,0,0" VerticalAlignment="Top" Width="190" Background="#FF5B5B5B" Foreground="White" FontFamily="Cascadia Mono SemiBold" FontSize="15"/>
+        <Label x:Name="LabelPoziom" Content="" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="590,22,0,0" VerticalAlignment="Top" Width="190" Background="#FF5B5B5B" Foreground="White" FontFamily="Cascadia Mono SemiBold" FontSize="15"/>
+
+        <Button x:Name="BtnWylosujSlowo" Content="Wylosuj słowo" HorizontalAlignment="Left" Height="35" Margin="30,27,0,0" Grid.Row="2" VerticalAlignment="Top" Width="145" Click="BtnWylosujSlowo_Click" Background="#F2A516" FontWeight="Bold" Foreground="White" FontSize="15" FontFamily="Cascadia Mono SemiBold" BorderBrush="White" BorderThickness="2"/>
+        <Label x:Name="LabelUkryteSlowo" Content="" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="195,27,0,0" Grid.Row="2" VerticalAlignment="Top" Width="340" FontSize="23" FontFamily="Cascadia Mono SemiBold"/>
+
+        <Label x:Name="LabelLiczbaProb" Content="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="30,92,0,0" Grid.Row="2" VerticalAlignment="Top" Width="145" Background="#FF5B5B5B" Foreground="White" FontFamily="Cascadia Mono SemiBold" FontSize="15"/>
+
+        <Button x:Name="ButtonSprawdz" Content="Sprawdź" HorizontalAlignment="Left" Height="35" Margin="245,180,0,0" Grid.Row="2" VerticalAlignment="Top" Width="145" Click="ButtonSprawdz_Click" Background="#F2A516" FontWeight="Bold" Foreground="White" Visibility="Hidden" FontFamily="Cascadia Mono SemiBold" FontSize="15" BorderBrush="White" BorderThickness="2"/>
+        <Label x:Name="LabelPodajLitere" Content="Podaj literę" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="30,180,0,0" Grid.Row="2" VerticalAlignment="Top" Width="145"  Background="#FF5B5B5B" Foreground="White" FontWeight="Normal" Visibility="Hidden" FontFamily="Cascadia Mono SemiBold" FontSize="15"/>
+        <TextBox x:Name="TxtPodawanaLitera" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="35" Margin="185,180,0,0" Grid.Row="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" Visibility="Hidden" FontSize="15"/>
+    </Grid>
+</Window>

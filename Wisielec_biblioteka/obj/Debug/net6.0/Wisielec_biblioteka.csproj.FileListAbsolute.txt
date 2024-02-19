@@ -1,0 +1,142 @@
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\Karolina\Desktop\projekt\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt — kopia\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\Tomek\Desktop\wisielec_Ola_2\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\olkat\OneDrive\Pulpit\Projekt c#\wisielec_dziala — kopia\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.exe
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.deps.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.runtimeconfig.json
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\bin\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfoInputs.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.AssemblyInfo.cs
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\refint\Wisielec_biblioteka.dll
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.pdb
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\Wisielec_biblioteka.genruntimeconfig.cache
+C:\Users\Karolina\Desktop\wisielec_dziala\Wisielec_projekt_dziala\Wisielec_biblioteka\obj\Debug\net6.0\ref\Wisielec_biblioteka.dll

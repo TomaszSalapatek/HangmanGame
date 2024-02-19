@@ -1,0 +1,29 @@
+﻿<Window x:Class="Wisielec.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wisielec"
+        mc:Ignorable="d"
+        Title="WISIELEC" Height="450" Width="800" Background="#AAAAAA">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="381*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="GifImage" Margin="-492,-151,-500,-300" Grid.ColumnSpan="2" Source="/gif_1.gif" />
+
+        <Button x:Name="BNowaGra" Content="Nowa Gra" HorizontalAlignment="Left" Height="64" Margin="0,130,0,0" VerticalAlignment="Top" Width="179" Click="BNowaGra_Click" Grid.Column="1" Background="#F2A516" Foreground="White" FontSize="17" BorderBrush="White" BorderThickness="2" FontFamily="Cascadia Mono SemiBold" FontWeight="ExtraBold"/>
+        <Button x:Name="BStatystykiGraczy" Content="Statystyki Graczy" HorizontalAlignment="Left" Height="64" VerticalAlignment="Top" Width="179" Margin="0,200,0,0" Click="BStatystykiGraczy_Click" Grid.Column="1" Background="#F2A516" Foreground="White" FontSize="17" FontWeight="ExtraBold" BorderBrush="White" BorderThickness="2" FontFamily="Cascadia Mono SemiBold" />
+        <Button x:Name="BZakoncz" Content="Zakończ Grę" HorizontalAlignment="Left" Height="64" Margin="0,270,0,0" VerticalAlignment="Top" Width="179" Click="BZakoncz_Click" Grid.Column="1" Background="#F2A516" Foreground="White" FontWeight="ExtraBold" FontSize="17" BorderBrush="White" BorderThickness="2" FontFamily="Cascadia Mono SemiBold"/>
+
+        <Label Content="Podaj nazwę gracza:" HorizontalContentAlignment="Left" VerticalContentAlignment="Bottom" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="179" RenderTransformOrigin="0.149,0.614" Foreground="White" Grid.Column="1" Margin="0,28,0,0" FontFamily="Cascadia Mono SemiBold" FontSize="15" FontWeight="ExtraBold"/>
+        <TextBox x:Name="TxtNazwaGraczaMain" HorizontalAlignment="Left" Height="30" Margin="37,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Background="#FFE3E3E3" Foreground="#333333" FontSize="16" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2"/>
+
+        <Image x:Name="ImageDzwiek1" Stretch="Uniform" MouseLeftButtonDown="Dzwiek1_MouseLeftButtonDown" HorizontalAlignment="Left" Height="40" Margin="690,355,0,0" VerticalAlignment="Top" Width="40" Grid.Column="1"/>
+        <Image x:Name="ImageDzwiek2" Stretch="Uniform" MouseLeftButtonDown="Dzwiek2_MouseLeftButtonDown" HorizontalAlignment="Left" Height="40" Margin="690,355,0,0" VerticalAlignment="Top" Width="40" Grid.Column="1" Visibility="Hidden" />
+
+        <Label Content="WISIELEC" HorizontalContentAlignment="Left" VerticalContentAlignment="Bottom" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="198" RenderTransformOrigin="0.149,0.614" Foreground="White" FontWeight="ExtraBold" FontSize="40" Grid.Column="1" Margin="543,2,0,0" FontFamily="Cascadia Mono SemiBold"/>
+    </Grid>
+
+</Window>
